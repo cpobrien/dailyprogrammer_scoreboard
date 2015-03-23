@@ -1,0 +1,24 @@
+{
+  "name": "dailyprogrammer_leaderboard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cpobrien/dailyprogrammer_scoreboard.git"
+  },
+  "author": "Connor O'Brien",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/cpobrien/dailyprogrammer_scoreboard/issues"
+  },
+  "homepage": "https://github.com/cpobrien/dailyprogrammer_scoreboard",
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
